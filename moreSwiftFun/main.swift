@@ -66,3 +66,15 @@ print(sentence)
 print(task4)
 print(task5)
 print(task6)
+
+/*
+ output:
+ [1, 2, 3, 4, 5]
+ [2, 4, 6, 8, 10]
+ [2, 4]
+ 120
+ ["the", "quick", "brown", "fox", "jumps", "over", "the", "lazy", "dog"]
+ ["brown", "fox", "over", "dog"]
+ ["THE", "QUICK", "BROWN", "FOX", "JUMPS", "OVER", "THE", "LAZY", "DOG"]
+ tqbfjotld
+ */
